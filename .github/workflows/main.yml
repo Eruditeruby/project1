@@ -1,4 +1,4 @@
-name: Gitactions Project
+name: Gitactions Pro
 on: workflow_dispatch
 jobs: 
   Testing:
